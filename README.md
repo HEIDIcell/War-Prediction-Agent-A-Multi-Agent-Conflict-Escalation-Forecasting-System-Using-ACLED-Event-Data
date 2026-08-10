@@ -1,0 +1,2 @@
+# War-Prediction-Agent-A-Multi-Agent-Conflict-Escalation-Forecasting-System-Using-ACLED-Event-Data
+A multi-agent conflict escalation forecasting system using ACLED event data (2016-2025) for US-China, US-Iran, and US-Russia dyads. Compares Logistic Regression, Random Forest, LSTM, and a six-agent Multi-Agent Debate architecture (Sentiment, Escalation, De-escalation, Geo-context, Data, Judge), reaching 0.905 ROC-AUC with tested noise robustness. 
