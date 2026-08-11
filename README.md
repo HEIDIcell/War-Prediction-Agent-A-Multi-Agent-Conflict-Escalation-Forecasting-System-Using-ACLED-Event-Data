@@ -4,7 +4,7 @@
 This project implements an agent-based system for estimating the probability of **high conflict escalation involving the United States and a target state within the next six months**.
 The project does **not** make definitive claims that the United States will start a war. It produces experimental risk estimates from public event data.
 
-## Coursework fit
+## Design
 
 - **Environment:** a geopolitical event environment constructed from ACLED event-level data. Each case is a US-target dyad-month.
 - **Autonomous agents:** Sentiment, Escalation, De-escalation, Geo-context, Data-driven and Judge agents.
@@ -155,8 +155,6 @@ US-Iran, Multi-Agent_Debate, predicted_probability=0.81, risk_level=Very high
 This means the system estimates a very high probability of **high conflict escalation** in the next six months. It does not mean that a war will definitely occur.
 
 ## Recommended report wording
-
-Use this wording rather than saying "predicts whether the US will start a war":
 
 > The system estimates the probability of high conflict escalation involving the United States and a target state within a six-month horizon, based on historical public event data.
 
