@@ -19,7 +19,7 @@ The code expects ACLED event-level CSV files in:
 data/raw/acled/
 ```
 
-The uploaded coursework version can use:
+The uploaded version can use:
 
 ```text
 data/raw/acled/ACLED Data_2016_2026.csv
@@ -168,7 +168,7 @@ This means the system estimates a very high probability of **high conflict escal
 
 ## Optional external dataset enrichment
 
-The stable coursework pipeline uses the uploaded ACLED CSV. The project also contains optional integration for the four additional datasets discussed in the design notes.
+The stable pipeline uses the uploaded ACLED CSV. The project also contains optional integration for the four additional datasets discussed in the design notes.
 
 ### A. World Bank GEO_CONTEXT
 
