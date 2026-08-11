@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # War Prediction Agent: Multi-Agent Conflict Escalation Forecasting
 
 This project implements an agent-based system for estimating the probability of **high conflict escalation involving the United States and a target state within the next six months**.
