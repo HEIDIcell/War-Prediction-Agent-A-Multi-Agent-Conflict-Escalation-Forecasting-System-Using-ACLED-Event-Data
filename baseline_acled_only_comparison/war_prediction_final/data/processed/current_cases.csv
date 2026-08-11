@@ -1,4 +1,0 @@
-case_id,dyad,month,prediction_date,lookback_months,conflict_count,military_count,threat_count,cooperation_count,diplomatic_count,avg_tone,avg_goldstein,cinc_ratio,diplomatic_score,trade_dependence,news_sentiment,recent_conflicts,fatalities_sum,us_actor_events,label,model_probability
-CURRENT_US_China,US-China,2025-05,2026-05-14,6,22,0,7,0,1,-2.1944444444444446,-1.1338888888888887,0.85,-0.5738888888888888,0.58,-0.14471998327741586,0.054062845618372254,0.0,0,-1,0.6784208222449608
-CURRENT_US_Iran,US-Iran,2025-05,2026-05-14,6,36,29,23,0,3,-8.722222222222223,-4.597777777777778,2.2,-0.7453703703703703,0.28,-0.5880229327785149,0.12302387613037538,53.0,0,-1,0.9945848371465802
-CURRENT_US_Russia,US-Russia,2025-05,2026-05-14,6,2704,2613,1119,24,15,-9.73347272068542,-15.046736360342711,1.25,-0.9303448116738086,0.35,-0.7906820424988151,1.0,1702.0,1,-1,0.999
